@@ -1,6 +1,6 @@
 name: Test of GitHub pages
 description: This is a testing website for checking out how to work on GitHub with websites.
-baseurl: "/pages-test/"
+baseurl: "/pages-test"
 url: "https://ruderphilipp.github.io"
 
 paginate: 10
